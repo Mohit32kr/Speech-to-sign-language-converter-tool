@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# ML models (large files)
+backend/models/vosk-model/
+
+# OS files
+.DS_Store
+Thumbs.db
