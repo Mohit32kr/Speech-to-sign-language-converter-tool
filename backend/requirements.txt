@@ -1,0 +1,6 @@
+flask
+flask-cors
+vosk
+sounddevice
+spacy
+numpy
